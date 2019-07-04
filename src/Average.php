@@ -1,6 +1,5 @@
 <?php
 
-namespace drmonkeyninja;
 
 class Average
 {
